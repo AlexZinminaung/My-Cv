@@ -7,11 +7,9 @@
 }
 
 body {
-    margin: 0px 200px;
-    margin-top: 50px;
+
     display: flex;
     min-height: 800px;
-    background-color: gray;
 
 }
 
