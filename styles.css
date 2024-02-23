@@ -40,7 +40,7 @@ a {
     background-color: rgb(0, 217, 255);
     padding: 20px;
     color: whitesmoke;
-    min-width: 200px;
+    
 
 }
 
@@ -83,7 +83,7 @@ a {
 }
 
 .right-container ul li {
-    margin: 5px;
+    margin: 5px 0px;
     list-style-type: none;
 }
 
@@ -117,4 +117,6 @@ a {
     #no-border {
         border: none;
     }  
+
+
 }
